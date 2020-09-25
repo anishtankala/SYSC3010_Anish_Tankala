@@ -1,3 +1,4 @@
+#Code taken from website 'https://iotdesignpro.com/projects/how-to-send-data-to-thingspeak-cloud-using-raspberry-pi'
 import http.client
 import urllib.parse
 import time
