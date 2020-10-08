@@ -15,7 +15,7 @@ def any(event):
 initials = ["A", "T"]
 count = 0
 
-s.stick.direction_any = any
+s.stick.direction_right = any
 
 while True:
   time.sleep(0.75)
